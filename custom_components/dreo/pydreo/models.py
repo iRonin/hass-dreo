@@ -19,7 +19,6 @@ from .constant import (
     TARGET_TEMP_RANGE,
     TARGET_TEMP_RANGE_ECO,
     HeaterOscillationAngles,
-    TEMPERATURE_KEY,
     HUMIDITY_RANGE,
 )
 
